@@ -1,5 +1,5 @@
 :root {
-  --primary: #ccdad1;
+  --primary: #daccd6; 
   --secondary: #9caea9;
   --tertiary: #788585;
   --light-dark: #6f6866;
@@ -37,6 +37,10 @@ main {
   margin: 20px auto;
   width: 94%;
 }
+
+/* a {
+  color:rgba(255,255,255, 1);
+} */
 
 p {
   font-size: 1.2rem;
